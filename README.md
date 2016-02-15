@@ -10,7 +10,7 @@ it to get hold of whats going on!
 Clone the project:
 
 ```
-git clone https://github.com/antoaravinth/hello-world-angular-2.git
+git clone https://github.com/kmiyatake/angular2-helloworld.git
 ```
 
 And then go inside the directory and run:
